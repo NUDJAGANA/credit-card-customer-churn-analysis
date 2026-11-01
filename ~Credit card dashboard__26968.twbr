@@ -20,7 +20,7 @@
     <_.fcp.WorkbookFingerprinting.true...WorkbookFingerprinting />
     <WorksheetBackgroundTransparency />
   </document-format-change-manifest>
-  <repository-location id='Creditcarddashboard_17935251019710' path='/workbooks' revision='1.4' />
+  <repository-location id='Creditcarddashboard3' path='/workbooks' revision='1.0' />
   <preferences>
     <preference name='ui.encoding.shelf.height' value='24' />
     <preference name='ui.shelf.height' value='26' />
@@ -1373,8 +1373,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='23' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='97538' id='22' param='vert' type-v2='layout-flow' w='98400' x='800' y='1231'>
+            <zone h='100000' id='27' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='97538' id='26' param='vert' type-v2='layout-flow' w='98400' x='800' y='1231'>
                 <zone h='8923' id='13' type-v2='title' w='98400' x='800' y='1231'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -1470,8 +1470,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='21' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='97538' id='20' param='vert' type-v2='layout-flow' w='98400' x='800' y='1231'>
+            <zone h='100000' id='25' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='97538' id='24' param='vert' type-v2='layout-flow' w='98400' x='800' y='1231'>
                 <zone h='8923' id='11' type-v2='title' w='98400' x='800' y='1231'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -1605,8 +1605,8 @@
           </layout-options>
           <size maxheight='900' minheight='900' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='28' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='97538' id='27' param='vert' type-v2='layout-flow' w='98400' x='800' y='1231'>
+            <zone h='100000' id='32' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='97538' id='31' param='vert' type-v2='layout-flow' w='98400' x='800' y='1231'>
                 <zone h='14154' id='18' type-v2='title' w='98400' x='800' y='1231'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -1842,7 +1842,7 @@
       </cards>
       <simple-id uuid='{72837026-E946-4E7B-B3FC-A2FFEEF1457D}' />
     </window>
-    <window class='dashboard' name='OBSIDIAN INTELLIGENCE  /  COMMAND CENTER                   CREDIT CARD CHURN  •  10,127 CUSTOMERS'>
+    <window class='dashboard' maximized='true' name='OBSIDIAN INTELLIGENCE  /  COMMAND CENTER                   CREDIT CARD CHURN  •  10,127 CUSTOMERS'>
       <viewpoints>
         <viewpoint name='Churn by Product Count'>
           <zoom type='entire-view' />
@@ -1857,7 +1857,7 @@
       <active id='-1' />
       <simple-id uuid='{29E4F884-ED6E-4B99-AE7F-AAEFD210DFFC}' />
     </window>
-    <window class='dashboard' maximized='true' name='BEHAVIOR SIGNALS'>
+    <window class='dashboard' name='BEHAVIOR SIGNALS'>
       <viewpoints>
         <viewpoint name='Average Transaction Amount by Status'>
           <zoom type='entire-view' />
@@ -1874,7 +1874,7 @@
         <viewpoint name='Churn by Balance Status' />
         <viewpoint name='Churn by Income Category' />
       </viewpoints>
-      <active id='-1' />
+      <active id='5' />
       <simple-id uuid='{6024C523-8AC1-4D16-B9BE-626216DA57CA}' />
     </window>
   </windows>

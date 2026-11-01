@@ -5,11 +5,10 @@
 
 # ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
-## Interactive Tableau Dashboards
+## Live portfolio site
 
-- [Obsidian Intelligence / Command Center](https://public.tableau.com/app/profile/nadjat.djagana7788/viz/Creditcarddashboard_17935251019710/OBSIDIANINTELLIGENCECOMMANDCENTERCREDITCARDCHURN10127CUSTOMERS)
-- [Behavior Signals](https://public.tableau.com/app/profile/nadjat.djagana7788/viz/Creditcarddashboard2/BEHAVIORSIGNALS)
-- [Customer Segments](https://public.tableau.com/app/profile/nadjat.djagana7788/viz/Creditcarddashboard3/CUSTOMERSEGMENTS)
+[Open the interactive Obsidian Intelligence portfolio](https://nudjagana.github.io/credit-card-customer-churn-analysis/)
+
 
 ## Dataset Content
 
@@ -142,6 +141,3 @@ The Code Institute Learning Management System modules on Pandas and Data Visuali
 
 * Thanks to Code Institute mentors, tutors, and community members for reviewing project steps, sharing feedback, and providing structural guidance.
 
-## Live portfolio site
-
-[Open the interactive Obsidian Intelligence portfolio](https://nudjagana.github.io/credit-card-customer-churn-analysis/)
